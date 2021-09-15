@@ -1,2 +1,3 @@
 # markeight-emoji-interprter
-Created with CodeSandbox
+
+This web app tells you what each emoji means. This is made using react js.
